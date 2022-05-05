@@ -362,10 +362,6 @@ Ahora podemos probar que todo funciona correctamente, entrando a la pagina web c
 ![Pagina Principal](./img/pagina%20principal.png)
 
 
-Aqui se pueden ver todos los equipos que tengo añadidos:
-
-![Equipos](./img/pagina%20ordenadores..png)
-
 Tambien podemos añadir una conexion con LDAP, esto se hace desde la rueda de adminisracion de Snipe-IT(arriba a la derecha) y luego seleccionamos LDAP.
 
 Y nos aparecera una pagina como esta; debemos de añadir los datos de nuestro servidor LDAP.
